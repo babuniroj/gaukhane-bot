@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "r-000001",
+      "type": "riddle",
+      "question": "जति निकाल्यो उति ठूलो हुँदै जान्छ, त्यो के हो?",
+      "answer": "खाल्डो",
+      "aliases": [
+        "खाल्डो हो"
+      ],
+      "difficulty": "easy",
+      "source": "manual",
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    }
+  ]
+}
