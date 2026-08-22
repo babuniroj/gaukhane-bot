@@ -16,24 +16,9 @@
       "answerText": "सगरमाथा",
       "difficulty": "easy",
       "source": "manual",
-      "approved": true
-    },
-    {
-      "id": "gk-000002",
-      "type": "gk",
-      "category": "नेपाल",
-      "question": "नेपालको राजधानी कुन हो?",
-      "options": {
-        "A": "पोखरा",
-        "B": "काठमाडौं",
-        "C": "भरतपुर",
-        "D": "ललितपुर"
-      },
-      "answer": "B",
-      "answerText": "काठमाडौं",
-      "difficulty": "easy",
-      "source": "manual",
-      "approved": true
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
     }
   ]
 }
