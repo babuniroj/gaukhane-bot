@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "r-000001",
+      "type": "riddle",
+      "question": "जति निकाल्यो उति ठूलो हुँदै जान्छ, त्यो के हो?",
+      "answer": "खाल्डो",
+      "aliases": [
+        "खाल्डो हो"
+      ],
+      "difficulty": "easy",
+      "source": "manual",
+      "approved": true
+    },
+    {
+      "id": "r-000002",
+      "type": "riddle",
+      "question": "मुख छैन तर बोल्छ, कान छैन तर सुन्छ। के हो?",
+      "answer": "प्रतिध्वनि",
+      "aliases": [
+        "इको",
+        "echo"
+      ],
+      "difficulty": "medium",
+      "source": "manual",
+      "approved": true
+    }
+  ]
+}
