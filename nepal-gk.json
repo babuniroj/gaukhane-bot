@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "gk-000001",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको सबैभन्दा अग्लो हिमाल कुन हो?",
+      "options": {
+        "A": "मकालु",
+        "B": "धौलागिरि",
+        "C": "सगरमाथा",
+        "D": "कञ्चनजङ्घा"
+      },
+      "answer": "C",
+      "answerText": "सगरमाथा",
+      "difficulty": "easy",
+      "source": "manual",
+      "approved": true
+    },
+    {
+      "id": "gk-000002",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको राजधानी कुन हो?",
+      "options": {
+        "A": "पोखरा",
+        "B": "काठमाडौं",
+        "C": "भरतपुर",
+        "D": "ललितपुर"
+      },
+      "answer": "B",
+      "answerText": "काठमाडौं",
+      "difficulty": "easy",
+      "source": "manual",
+      "approved": true
+    }
+  ]
+}
