@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "r-000001",
+      "type": "riddle",
+      "category": "गाउँखाने कथा",
+      "question": "जति निकाल्यो उति ठूलो हुँदै जान्छ, त्यो के हो?",
+      "options": null,
+      "answers": [
+        "खाल्डो",
+        "खाल्डो हो",
+        "khaldo",
+        "khaldo ho"
+      ],
+      "correctOption": null,
+      "answerText": "खाल्डो",
+      "difficulty": "easy",
+      "source": {
+        "provider": "manual",
+        "api": null,
+        "model": null
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000001",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको सबैभन्दा अग्लो हिमाल कुन हो?",
+      "options": {
+        "A": "मकालु",
+        "B": "धौलागिरि",
+        "C": "सगरमाथा",
+        "D": "कञ्चनजङ्घा"
+      },
+      "answers": [
+        "C",
+        "सगरमाथा",
+        "sagarmatha"
+      ],
+      "correctOption": "C",
+      "answerText": "सगरमाथा",
+      "difficulty": "easy",
+      "source": {
+        "provider": "manual",
+        "api": null,
+        "model": null
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    }
+  ]
+}
