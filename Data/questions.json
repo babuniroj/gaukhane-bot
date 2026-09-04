@@ -1,0 +1,623 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "r-000001",
+      "type": "riddle",
+      "category": "गाउँखाने कथा",
+      "question": "जति निकाल्यो उति ठूलो हुँदै जान्छ, त्यो के हो?",
+      "options": null,
+      "answers": [
+        "खाल्डो",
+        "खाल्डो हो",
+        "khaldo",
+        "khaldo ho"
+      ],
+      "correctOption": null,
+      "answerText": "खाल्डो",
+      "difficulty": "easy",
+      "source": {
+        "provider": "manual",
+        "api": null,
+        "model": null
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000001",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको सबैभन्दा अग्लो हिमाल कुन हो?",
+      "options": {
+        "A": "मकालु",
+        "B": "धौलागिरि",
+        "C": "सगरमाथा",
+        "D": "कञ्चनजङ्घा"
+      },
+      "answers": [
+        "C",
+        "सगरमाथा",
+        "sagarmatha"
+      ],
+      "correctOption": "C",
+      "answerText": "सगरमाथा",
+      "difficulty": "easy",
+      "source": {
+        "provider": "manual",
+        "api": null,
+        "model": null
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "r-000002",
+      "type": "riddle",
+      "category": "गाउँखाने कथा",
+      "question": "रूखमाथि बस्छ चरा होइन, तीनवटा आँखा छन् शिवजी होइन, त्यो के हो?",
+      "options": null,
+      "correctOption": null,
+      "answers": [
+        "नरिवल",
+        "नरिबल",
+        "nariwal",
+        "coconut"
+      ],
+      "answerText": "नरिवल",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.7-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "r-000003",
+      "type": "riddle",
+      "category": "गाउँखाने कथा",
+      "question": "दिनभरि हिँड्छ, राति ओछ्यानमुनि बस्छ, त्यो के हो?",
+      "options": null,
+      "correctOption": null,
+      "answers": [
+        "जुत्ता",
+        "चप्पल",
+        "jutta",
+        "chappal"
+      ],
+      "answerText": "जुत्ता",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000002",
+      "type": "gk",
+      "category": "नेपालको भूगोल",
+      "question": "नेपालको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",
+      "options": {
+        "A": "लाङटाङ राष्ट्रिय निकुञ्ज",
+        "B": "चितवन राष्ट्रिय निकुञ्ज",
+        "C": "सगरमाथा राष्ट्रिय निकुञ्ज",
+        "D": "बर्दिया राष्ट्रिय निकुञ्ज"
+      },
+      "correctOption": "B",
+      "answers": [
+        "B",
+        "चितवन राष्ट्रिय निकुञ्ज",
+        "Chitwan National Park"
+      ],
+      "answerText": "चितवन राष्ट्रिय निकुञ्ज",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "r-000004",
+      "type": "riddle",
+      "category": "गाउँखाने कथा",
+      "question": "पानी पर्दा फुल्ने, घाम लाग्दा ओइलाउने, त्यो के हो?",
+      "options": null,
+      "correctOption": null,
+      "answers": [
+        "छाता",
+        "छत्री",
+        "chhata",
+        "chata"
+      ],
+      "answerText": "छाता",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000003",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको सबैभन्दा गहिरो ताल कुन हो?",
+      "options": {
+        "A": "फेवा ताल",
+        "B": "रारा ताल",
+        "C": "शे-फोक्सुण्डो ताल",
+        "D": "बेगनास ताल"
+      },
+      "correctOption": "C",
+      "answers": [
+        "C",
+        "शे-फोक्सुण्डो ताल",
+        "Shey Phoksundo Lake",
+        "Shey Phoksundo Tal"
+      ],
+      "answerText": "शे-फोक्सुण्डो ताल",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "r-000005",
+      "type": "riddle",
+      "category": "गाउँखाने कथा",
+      "question": "सेतो खेतमा कालो बीउ, हातले रोप्छन् आँखाले टिप्छन्, त्यो के हो?",
+      "options": null,
+      "correctOption": null,
+      "answers": [
+        "अक्षर",
+        "लेखाई",
+        "Akshar",
+        "Lekhai"
+      ],
+      "answerText": "अक्षर",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000004",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको कुन जिल्लालाई 'झोलुङ्गे पुलको जिल्ला' भनेर चिनिन्छ?",
+      "options": {
+        "A": "मुस्ताङ",
+        "B": "बाग्लुङ",
+        "C": "इलाम",
+        "D": "दोलखा"
+      },
+      "correctOption": "B",
+      "answers": [
+        "B",
+        "बाग्लुङ",
+        "Baglung"
+      ],
+      "answerText": "बाग्लुङ",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "r-000006",
+      "type": "riddle",
+      "category": "गाउँखाने कथा",
+      "question": "एउटै घरमा धेरै दाजुभाइ, टाउको घोट्दा आगो बल्ने, त्यो के हो?",
+      "options": null,
+      "correctOption": null,
+      "answers": [
+        "सलाइको काँटी",
+        "सलाइ",
+        "Salaiko kanti",
+        "Salai"
+      ],
+      "answerText": "सलाइको काँटी",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000005",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको कुन ठाउँलाई 'नेपालको स्विट्जरल्यान्ड' भनेर पनि चिनिन्छ?",
+      "options": {
+        "A": "जिरी",
+        "B": "पोखरा",
+        "C": "मुस्ताङ",
+        "D": "इलाम"
+      },
+      "answers": [
+        "A",
+        "जिरी",
+        "Jiri"
+      ],
+      "correctOption": "A",
+      "answerText": "जिरी",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000006",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको सबैभन्दा ठूलो मानवनिर्मित (कृत्रिम) ताल कुन हो?",
+      "options": {
+        "A": "फेवा ताल",
+        "B": "बेगनास ताल",
+        "C": "इन्द्रसरोवर",
+        "D": "घोडाघोडी ताल"
+      },
+      "answers": [
+        "C",
+        "इन्द्रसरोवर",
+        "Indra Sarovar",
+        "Indrasarovar"
+      ],
+      "correctOption": "C",
+      "answerText": "इन्द्रसरोवर",
+      "difficulty": "medium",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000007",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालमा सर्वप्रथम कफी खेतीको सुरुवात कुन जिल्लाबाट भएको हो?",
+      "options": {
+        "A": "इलाम",
+        "B": "गुल्मी",
+        "C": "कास्की",
+        "D": "स्याङ्जा"
+      },
+      "answers": [
+        "B",
+        "गुल्मी",
+        "Gulmi"
+      ],
+      "correctOption": "B",
+      "answerText": "गुल्मी",
+      "difficulty": "medium",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000008",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "क्षेत्रफलका आधारमा नेपालको सबैभन्दा ठूलो जिल्ला कुन हो?",
+      "options": {
+        "A": "हुम्ला",
+        "B": "डोल्पा",
+        "C": "मुस्ताङ",
+        "D": "ताप्लेजुङ"
+      },
+      "answers": [
+        "B",
+        "डोल्पा",
+        "Dolpa"
+      ],
+      "correctOption": "B",
+      "answerText": "डोल्पा",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000009",
+      "type": "gk",
+      "category": "नेपालको भूगोल",
+      "question": "नेपालको पहिलो राजमार्ग कुन हो?",
+      "options": {
+        "A": "अरनिको राजमार्ग",
+        "B": "त्रिभुवन राजमार्ग",
+        "C": "पृथ्वी राजमार्ग",
+        "D": "सिद्धार्थ राजमार्ग"
+      },
+      "answers": [
+        "B",
+        "त्रिभुवन राजमार्ग",
+        "Tribhuvan Rajmarga"
+      ],
+      "correctOption": "B",
+      "answerText": "त्रिभुवन राजमार्ग",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000010",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको कुन नदीलाई भारतमा पुगेपछि 'घाघरा' नामले चिनिन्छ?",
+      "options": {
+        "A": "कोशी",
+        "B": "गण्डकी",
+        "C": "कर्णाली",
+        "D": "महाकाली"
+      },
+      "answers": [
+        "C",
+        "कर्णाली",
+        "Karnali"
+      ],
+      "correctOption": "C",
+      "answerText": "कर्णाली",
+      "difficulty": "medium",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000011",
+      "type": "gk",
+      "category": "नेपालको भूगोल",
+      "question": "नेपालको सबैभन्दा लामो नदी कुन हो?",
+      "options": {
+        "A": "कोशी",
+        "B": "गण्डकी",
+        "C": "कर्णाली",
+        "D": "महाकाली"
+      },
+      "answers": [
+        "C",
+        "कर्णाली",
+        "Karnali"
+      ],
+      "correctOption": "C",
+      "answerText": "कर्णाली",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000012",
+      "type": "gk",
+      "category": "नेपालको भूगोल",
+      "question": "नेपालको पहिलो रामसार क्षेत्र (Ramsar Site) को रूपमा सूचीकृत क्षेत्र कुन हो?",
+      "options": {
+        "A": "फेवा ताल",
+        "B": "कोशी टप्पु वन्यजन्तु आरक्ष",
+        "C": "घोडाघोडी ताल",
+        "D": "बीसहजारी ताल"
+      },
+      "answers": [
+        "B",
+        "कोशी टप्पु वन्यजन्तु आरक्ष",
+        "Koshi Tappu Wildlife Reserve"
+      ],
+      "correctOption": "B",
+      "answerText": "कोशी टप्पु वन्यजन्तु आरक्ष",
+      "difficulty": "medium",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000013",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको सबैभन्दा ठूलो ताल कुन हो?",
+      "options": {
+        "A": "शे-फोक्सुण्डो ताल",
+        "B": "फेवा ताल",
+        "C": "रारा ताल",
+        "D": "तिलिचो ताल"
+      },
+      "answers": [
+        "C",
+        "रारा ताल",
+        "Rara Taal"
+      ],
+      "correctOption": "C",
+      "answerText": "रारा ताल",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000014",
+      "type": "gk",
+      "category": "नेपालको इतिहास",
+      "question": "गोर्खाका काजी कालु पाँडेको मृत्यु कुन युद्धमा भएको थियो?",
+      "options": {
+        "A": "प्रथम कीर्तिपुर युद्ध",
+        "B": "दोस्रो कीर्तिपुर युद्ध",
+        "C": "सिन्धुलीगढीको युद्ध",
+        "D": "मकवानपुरको युद्ध"
+      },
+      "answers": [
+        "A",
+        "प्रथम कीर्तिपुर युद्ध",
+        "Pratham Kirtipur Yuddha"
+      ],
+      "correctOption": "A",
+      "answerText": "प्रथम कीर्तिपुर युद्ध",
+      "difficulty": "medium",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000015",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "विश्वको सर्वोच्च शिखर हिमाललाई 'सगरमाथा' नामकरण गर्ने इतिहासकार को हुन्?",
+      "options": {
+        "A": "बाबुराम आचार्य",
+        "B": "नयराज पन्त",
+        "C": "सूर्यविक्रम ज्ञवाली",
+        "D": "डिल्लीरमण रेग्मी"
+      },
+      "answers": [
+        "A",
+        "बाबुराम आचार्य",
+        "Baburam Acharya"
+      ],
+      "correctOption": "A",
+      "answerText": "बाबुराम आचार्य",
+      "difficulty": "medium",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "r-000007",
+      "type": "riddle",
+      "category": "गाउँखाने कथा",
+      "question": "सधैँ सँगै बस्छन्, तर एक-अर्कालाई कहिल्यै देख्दैनन्, ती के हुन्?",
+      "options": null,
+      "answers": [
+        "आँखा",
+        "ankha",
+        "aakha",
+        "aankha"
+      ],
+      "correctOption": null,
+      "answerText": "आँखा",
+      "difficulty": "easy",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "gk-000016",
+      "type": "gk",
+      "category": "नेपाल",
+      "question": "नेपालको पहिलो जलविद्युत् आयोजना कुन हो?",
+      "options": {
+        "A": "देवीघाट जलविद्युत् आयोजना",
+        "B": "फरपिङ जलविद्युत् आयोजना",
+        "C": "पनौती जलविद्युत् आयोजना",
+        "D": "त्रिशूली जलविद्युत् आयोजना"
+      },
+      "answers": [
+        "B",
+        "फरपिङ जलविद्युत् आयोजना",
+        "Pharping Jalbidyut Aayojana"
+      ],
+      "correctOption": "B",
+      "answerText": "फरपिङ जलविद्युत् आयोजना",
+      "difficulty": "medium",
+      "source": {
+        "provider": "gemini",
+        "api": "Gemini API",
+        "model": "gemini-3.6-flash"
+      },
+      "approved": true,
+      "usedCount": 0,
+      "lastUsed": null
+    }
+  ]
+}
